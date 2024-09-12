@@ -15,16 +15,16 @@ require (
 	github.com/hashicorp/terraform-plugin-testing v1.10.0
 	github.com/siderolabs/crypto v0.4.4
 	github.com/siderolabs/gen v0.5.0
-	github.com/siderolabs/go-blockdevice v0.4.7
+	github.com/siderolabs/go-blockdevice v0.4.8
 	github.com/siderolabs/image-factory v0.5.0
 	github.com/siderolabs/net v0.4.0
 	github.com/siderolabs/talos v1.8.0-beta.0
 	github.com/siderolabs/talos/pkg/machinery v1.8.0-beta.0
 	github.com/stretchr/testify v1.9.0
 	golang.org/x/mod v0.21.0
-	google.golang.org/grpc v1.66.1
+	google.golang.org/grpc v1.66.2
 	gopkg.in/yaml.v3 v3.0.1
-	k8s.io/client-go v0.31.0
+	k8s.io/client-go v0.31.1
 )
 
 require (
@@ -222,8 +222,8 @@ require (
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	k8s.io/api v0.31.0 // indirect
-	k8s.io/apimachinery v0.31.0 // indirect
+	k8s.io/api v0.31.1 // indirect
+	k8s.io/apimachinery v0.31.1 // indirect
 	k8s.io/klog/v2 v2.130.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20240709000822-3c01b740850f // indirect
 	k8s.io/utils v0.0.0-20240711033017-18e509b52bc8 // indirect
